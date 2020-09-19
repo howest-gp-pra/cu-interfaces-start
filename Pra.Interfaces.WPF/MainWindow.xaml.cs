@@ -70,9 +70,30 @@ namespace Pra.Interfaces.WPF
 
         }
 
+        private void btnStartAll_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnStopAll_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void btnAllVolumeUpn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnAllVolumeDown_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
         private void btnCheckInterfaceImplementation_Click(object sender, RoutedEventArgs e)
         {
 
         }
+
+
     }
 }
