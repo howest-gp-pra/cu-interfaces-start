@@ -30,66 +30,66 @@ namespace Pra.Interfaces.WPF
 
         }
 
-        private void btnTVLivingRoomPower_Click(object sender, RoutedEventArgs e)
+        private void BtnTVLivingRoomPower_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnSmartLampHallwayPower_Click(object sender, RoutedEventArgs e)
+        private void BtnSmartLampHallwayPower_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnRadioKitchenPower_Click(object sender, RoutedEventArgs e)
+        private void BtnRadioKitchenPower_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnTVLivingRoomVolumeDown_Click(object sender, RoutedEventArgs e)
+        private void BtnTVLivingRoomVolumeDown_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnTVLivingRoomVolumeUp_Click(object sender, RoutedEventArgs e)
+        private void BtnTVLivingRoomVolumeUp_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnRadioKitchenVolumeDown_Click(object sender, RoutedEventArgs e)
+        private void BtnRadioKitchenVolumeDown_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnRadioKitchenVolumeUp_Click(object sender, RoutedEventArgs e)
+        private void BtnRadioKitchenVolumeUp_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnCheckConnections_Click(object sender, RoutedEventArgs e)
+        private void BtnCheckConnections_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnStartAll_Click(object sender, RoutedEventArgs e)
+        private void BtnStartAll_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnStopAll_Click(object sender, RoutedEventArgs e)
+        private void BtnStopAll_Click(object sender, RoutedEventArgs e)
         {
 
         }
-        private void btnAllVolumeUpn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void btnAllVolumeDown_Click(object sender, RoutedEventArgs e)
+        private void BtnAllVolumeUpn_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnCheckInterfaceImplementation_Click(object sender, RoutedEventArgs e)
+        private void BtnAllVolumeDown_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCheckInterfaceImplementation_Click(object sender, RoutedEventArgs e)
         {
 
         }
